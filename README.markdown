@@ -1,6 +1,8 @@
 # janreggie : Jan Reggie Dela Cruz
 
-![My stats](https://github-readme-stats.vercel.app/api?username=janreggie&show_icons=true) ![My commonly used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=janreggie&layout=compact)
+Stats|Langs
+---|---
+![My stats](https://github-readme-stats.vercel.app/api?username=janreggie&show_icons=true) | ![My commonly used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=janreggie&layout=compact)
 
 - [sandbox](https://janreggie.github.io/)
 - [projects](https://janreggie.github.io/project/)
