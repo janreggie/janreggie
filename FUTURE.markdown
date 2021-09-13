@@ -9,4 +9,5 @@ Let's try not to be *ningas-kugon*, alright?
 - aoc-hs (memory issues suck tho, in that case, should've used Rust instead and use Haskell for Project Euler?)
 - Build your own scanner using [cardboard](https://www.instructables.com/Bargain-Price-Book-Scanner-From-A-Cardboard-Box/) and upload old books to Archive
 - [La antigua escritura filipina](https://archive.org/details/aps6594.0001.001.umich.edu/) and a website on it: multilingual issues abound
+  - Generalization: a **framework** to read literary works of multiple languages at once. Think of _Cuentos de Balmori_ or those books for kids in EN/TGL. In additon, have a way to divide sentences into several parts, e.g., "Voy | al | cine" -> "I'm going | to the (m.) | cinema"
 - Online books for learning mathematics and Spanish in the Filipino langauge (oh boy that's gonna be a project: synthesizing front-end webtech and pedagogy)
